@@ -1,0 +1,39 @@
+{
+  "comments": [
+    {
+      "Id": "2019-in-review",
+      "PostId": "January 2, 2020",
+      "Text": "2019 in Review"
+    },
+    {
+      "Id": "its-hard-to-forego-efficiency",
+      "PostId": "March 28, 2017",
+      "Text": "It's Hard to Forego Efficiency"
+    },
+    {
+      "Id": "2016-in-review",
+      "PostId": "January 6, 2017",
+      "Text": "2016 in Review"
+    },
+    {
+      "Id": "addressable-errors",
+      "PostId": "February 4, 2016",
+      "Text": "Addressable Errors"
+    },
+    {
+      "Id": "pure-ui",
+      "PostId": "July 13, 2015",
+      "Text": "Pure UI"
+    },
+    {
+      "Id": "ecmascript-6",
+      "PostId": "February 22, 2015",
+      "Text": "ECMAScript 6"
+    },
+    {
+      "Id": "7-principles-of-rich-web-applications",
+      "PostId": "November 4, 2014",
+      "Text": "7 Principles of Rich Web Applications"
+    }
+  ]
+}
